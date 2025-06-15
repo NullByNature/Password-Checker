@@ -23,3 +23,7 @@ The app uses:
 - Conditional `if` statements for each rule  
 - A `while` loop to reject empty input  
 - Console output to explain what's strong or weak about the password
+
+- ## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
